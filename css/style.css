@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20x;
+    color: rgba(41, 37, 37, 0.644);
+}
+
+.navbar {
+    background-color: #688ADB;
+}
+
+.quem-somos{
+    background-color: aliceblue;
+}
+
+.margin{
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+#quemsomos img {
+    margin-bottom: 15px;
+}
+
+.parceiros{
+    background-color: lavender;
+}
+
+.servicos{
+    background-color: aliceblue;
+}
+
+.bg-footer{
+    background-color: #688ADB;
+    color: white;
+}
